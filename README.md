@@ -92,7 +92,7 @@ Clique OK → Apply → OK
 
 Execute a classe Main.java
 
-## 📌 Funcionalidades
+## Funcionalidades
 
 - [x] Cadastrar Aluno (vinculado a um Curso)
 - [x] Cadastrar Professor
